@@ -7,4 +7,4 @@ root 7 ise ;
 1'in solunda 0 bulunur.
 8'in sağında 9 bulunur.
 3'ün sağında 4 ;solunda 2 bulunur.
-![merge sort](https://user-images.githubusercontent.com/76733515/181493739-87c00f24-59ff-4255-a822-39a3027a0aae.png)
+![Adsız](https://user-images.githubusercontent.com/76733515/181493893-be710cc1-9bde-428b-b1b4-1545e40de5ae.png)
